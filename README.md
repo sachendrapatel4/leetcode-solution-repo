@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0162-find-peak-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Binary Search
 |  |
@@ -20,5 +21,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+## Hash Table
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0594-longest-harmonious-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0594-longest-harmonious-subsequence) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
