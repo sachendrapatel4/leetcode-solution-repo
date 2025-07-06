@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0222-count-complete-tree-nodes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Two Pointers
 |  |
@@ -45,4 +46,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0392-is-subsequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
