@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0594-longest-harmonious-subsequence) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Binary Search
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0594-longest-harmonious-subsequence) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,4 +65,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0222-count-complete-tree-nodes) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2585-delete-greatest-value-in-each-row](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/2585-delete-greatest-value-in-each-row) |
+## Matrix
+|  |
+| ------- |
+| [2585-delete-greatest-value-in-each-row](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/2585-delete-greatest-value-in-each-row) |
+## Simulation
+|  |
+| ------- |
+| [2585-delete-greatest-value-in-each-row](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/2585-delete-greatest-value-in-each-row) |
 <!---LeetCode Topics End-->
