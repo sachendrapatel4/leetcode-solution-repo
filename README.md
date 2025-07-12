@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0392-is-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Sorting
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0392-is-subsequence) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [3617-find-the-original-typed-string-i](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/3617-find-the-original-typed-string-i) |
