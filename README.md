@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0594-longest-harmonious-subsequence) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1813-maximum-erasure-value](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1813-maximum-erasure-value) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2636-maximum-subsequence-score](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/2636-maximum-subsequence-score) |
 ## Binary Search
@@ -38,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0594-longest-harmonious-subsequence) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1813-maximum-erasure-value](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1813-maximum-erasure-value) |
 ## Sliding Window
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0594-longest-harmonious-subsequence) |
+| [1813-maximum-erasure-value](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1813-maximum-erasure-value) |
 ## Counting
 |  |
 | ------- |
