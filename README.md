@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0162-find-peak-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0594-longest-harmonious-subsequence) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0222-count-complete-tree-nodes) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0074-search-a-2d-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Simulation
 |  |
