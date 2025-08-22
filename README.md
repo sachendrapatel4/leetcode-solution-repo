@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0594-longest-harmonious-subsequence) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1813-maximum-erasure-value](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1813-maximum-erasure-value) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0240-search-a-2d-matrix-ii) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Two Pointers
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0594-longest-harmonious-subsequence) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2636-maximum-subsequence-score](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/2636-maximum-subsequence-score) |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2636-maximum-subsequence-score](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/2636-maximum-subsequence-score) |
 ## Matrix
@@ -86,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0240-search-a-2d-matrix-ii) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Simulation
 |  |
