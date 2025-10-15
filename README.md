@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0594-longest-harmonious-subsequence) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0594-longest-harmonious-subsequence) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0594-longest-harmonious-subsequence) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1813-maximum-erasure-value](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/1813-maximum-erasure-value) |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0594-longest-harmonious-subsequence) |
 ## String
 |  |
@@ -105,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sachendrapatel4/leetcode-solution-repo/tree/master/0240-search-a-2d-matrix-ii) |
 ## Prefix Sum
 |  |
